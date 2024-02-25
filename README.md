@@ -17,14 +17,14 @@ sudo npm install react-router-dom
 ```
 cd ~
 git clone https://github.com/celsie123/mysqlcelsie.git
-cd product-apps
+cd mysqlcelsie
 ```
 
 
 ### Install & Running React apps
 
 ```
-cd product-apps
+cd mysqlcelsie
 npm install 
 npm run build 
 npm start 
